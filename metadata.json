@@ -1,0 +1,9 @@
+{
+  "name": "SHORTZ AI News Daily",
+  "description": "Mobile AI Intelligence Hub featuring real-time news analytics, audio narration, and live AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
